@@ -25,6 +25,3 @@ function boxController:new(params)
 end
 
 return boxController
-
---This comment is not from the master account
-
